@@ -9,7 +9,7 @@ while True:
         print("Game Over! Thanks for playing.")
         break
     
-    if player not in choices:
+    if player not in choices: 
         print("Invalid choice. Try again!")
         continue
     
